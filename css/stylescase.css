@@ -210,8 +210,8 @@ a.sideNavParagraph:visited
 }
 a.sideNavParagraph:hover
 {
-   color:#e07128;
-   text-decoration: none;
+	text-shadow:0px 0px 20px #ffc89e;
+	text-decoration: none;
 }
 a.sideNavParagraph:active
 {
